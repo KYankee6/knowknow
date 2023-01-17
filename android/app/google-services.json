@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "963377079518",
+    "project_id": "tinder-clone-code",
+    "storage_bucket": "tinder-clone-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963377079518:android:2521fc34867f5f96ae8e4f",
+        "android_client_info": {
+          "package_name": "yang.co.knowknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963377079518-su255qts8qq238t6amj771u5pa83gkg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLI0TQwK3C_h1BfCa4J52SjAxiFaKe10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963377079518-su255qts8qq238t6amj771u5pa83gkg3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963377079518-5qf4psbsogdlc2l5g6hts93e063i0fv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "yang.co.knowknow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
