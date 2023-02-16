@@ -5,7 +5,7 @@ class UserRepository {
   final FirebaseAuth _firebaseAuth;
   final FirebaseFirestore _firestore;
 
-  UserRepository({FirebaseAuth firebaseAuth, FirebaseFirestore firestore})
+  UserRepository({required FirebaseAuth firebaseAuth, required FirebaseFirestore firestore})
       : _firebaseAuth = firebaseAuth ?? FirebaseAuth.instance,
         _firestore = firestore ?? FirebaseFirestore.instance;
 
